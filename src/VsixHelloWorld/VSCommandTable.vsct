@@ -15,7 +15,7 @@
 		    <Parent guid="guidCommand1PackageCmdSet" id="MyMenuGroup" />
 		    <Icon guid="guidImages" id="bmpPic1" />
 		    <Strings>
-			    <ButtonText>Say Hello World2</ButtonText>
+			    <ButtonText>Say Hello World</ButtonText>
 		    </Strings>
 	    </Button>	
     </Buttons>
