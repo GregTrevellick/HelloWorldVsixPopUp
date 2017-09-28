@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>    
+
+	<Commands package="guidCommand1Package">
+    <Groups>
+      <Group guid="guidCommand1PackageCmdSet" id="MyMenuGroup" priority="0x0600">
+	      <Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_HELP"/>
+			</Group>
+    </Groups>
+		
+    <Buttons>    
+	    <Button guid="guidCommand1PackageCmdSet" id="Command1Id" priority="0x0100" type="Button">
+		    <Parent guid="guidCommand1PackageCmdSet" id="MyMenuGroup" />
+		    <Icon guid="guidImages" id="bmpPic1" />
+		    <Strings>
+			    <ButtonText>Say Hello World</ButtonText>
+		    </Strings>
+	    </Button>	
+    </Buttons>
+    <Bitmaps>
+      <Bitmap guid="guidImages" href="Resources\VsixCommandIcon_16x16.png" usedList="bmpPic1"/>
+    </Bitmaps>
+  </Commands>
+
+  <Symbols>
+		<GuidSymbol name="guidCommand1Package" value="{24f06bc4-0d81-46a1-b2f2-bf2157c8406f}" />
+		<GuidSymbol name="guidCommand1PackageCmdSet" value="{9ae25a2d-dc9c-4d97-b216-0ea6dc47c453}">
+			<IDSymbol name="MyMenuGroup" value="0x1020" />
+			<IDSymbol name="Command1Id" value="0x0100" />
+		</GuidSymbol>
+	  <GuidSymbol name="guidImages" value="{4be5b583-95aa-4497-8cf0-0e8c50ba92fa}" >
+		  <IDSymbol name="bmpPic1" value="1" />
+	  </GuidSymbol>
+	</Symbols>
+</CommandTable>
