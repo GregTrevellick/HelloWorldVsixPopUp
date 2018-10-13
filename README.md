@@ -9,7 +9,9 @@
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
