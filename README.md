@@ -10,7 +10,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixPopUp/depshield.svg)](https://depshield.github.io)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
 
 
