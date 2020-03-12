@@ -9,6 +9,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
