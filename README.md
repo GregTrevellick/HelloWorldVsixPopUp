@@ -5,13 +5,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
-<!-- no md -->
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
-<!-- no md -->
-<!-- no md -->
-<!-- no md -->
-<!-- no md -->
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
+ [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
+    [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/pulls)
@@ -36,8 +31,7 @@
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/subscription)
-<!-- no md -->
-
+ 
 <!--BadgesEND-->
 
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
